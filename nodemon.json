@@ -1,0 +1,7 @@
+{
+    "env":{
+        "mongodb_password":"Sukchuki007",
+        "JWT_KEY":"secret"
+    }
+}
+
